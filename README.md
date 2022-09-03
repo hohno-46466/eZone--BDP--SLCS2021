@@ -1,11 +1,11 @@
 # GitHub/eZone--BDP--SLCS2021
 
-    ./eZone--BDP--SLCS2021/
+    ./eZone--BDP--SLCS2021
      ├──  README.md
      ├──  README.md.bak
      └──  README.md.old
      
-     0 directories, 3 files (Tue Aug 30 13:17:42 JST 2022)
+     0 directories, 3 files (Sat Sep  3 17:32:44 JST 2022)
 
 
 This is a repository of lectures on big data processing offered in SLCS2021 (Kanazawa University Computer Science Special Lecture 2021).
