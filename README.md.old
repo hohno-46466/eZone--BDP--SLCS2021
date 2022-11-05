@@ -5,7 +5,7 @@
      ├──  README.md.bak
      └──  README.md.old
      
-     0 directories, 3 files (Mon Oct 17 00:31:05 JST 2022)
+     0 directories, 3 files (Mon Oct 31 12:41:14 JST 2022)
 
 
 This is a repository of lectures on big data processing offered in SLCS2021 (Kanazawa University Computer Science Special Lecture 2021).
